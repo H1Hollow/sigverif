@@ -1,6 +1,6 @@
 # Sigverif
 
-an simple RSA based message signing and verification utility written in python that also utilises SHA256, RSA4096 and base64
+an simple RSA based message signing and verification utility written in python that also utilises SHA256, PKCS1V15 and base64
 
 ---
 
